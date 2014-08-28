@@ -1,0 +1,5 @@
+describe("The first test", function()
+    it("false should not be true", function()
+        assert.True(false)
+    end)
+end)

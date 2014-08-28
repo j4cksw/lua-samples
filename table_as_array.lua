@@ -1,0 +1,1 @@
+somchaiChildrens = { "Hercules", "Perseus", "Kratos" }
